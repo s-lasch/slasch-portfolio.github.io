@@ -1,7 +1,7 @@
 baseURL: https://slasch-portfolio.github.io
 
 languageCode: bn
-title: "John's Blog"
+title: "Steven Lasch Portfolio"
 
 # Use Hugo modules to add theme
 module:
