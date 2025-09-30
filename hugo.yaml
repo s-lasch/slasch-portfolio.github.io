@@ -18,20 +18,20 @@ module:
     target: static/fonts
 
 # Manage languages
-# For any more details, you can check the official documentation: https://gohugo.io/content-management/multilingual/
-languages:
-  en:
-    languageCode: en
-    languageName: English
-    title: "John's Blog"
-    weight: 1
-  bn:
-    languageCode: bn
-    languageName: বাংলা
-    title: জনের ব্লগ
-    weight: 2
-# default language for the content
-defaultContentLanguage: en
+# # For any more details, you can check the official documentation: https://gohugo.io/content-management/multilingual/
+# languages:
+#   en:
+#     languageCode: en
+#     languageName: English
+#     title: "John's Blog"
+#     weight: 1
+#   bn:
+#     languageCode: bn
+#     languageName: বাংলা
+#     title: জনের ব্লগ
+#     weight: 2
+# # default language for the content
+# defaultContentLanguage: en
 
 
 # Allow raw html in markdown file
@@ -104,12 +104,13 @@ params:
       showAuthor: true # shows the author of post (defaults true)
       # Share post on different social media
       shareButtons:
-        facebook: true
-        twitter: true
+        facebook: false
+        twitter: false
         linkedin: true
-        reddit: true
-        whatsapp: true
-        email: true
+        reddit: false
+        whatsapp: false
+        email: info@steven-lasch.com
+        medium: stevenlasch17
         # tumblr: true
         # pocket: true
         # diaspora: true
@@ -117,7 +118,7 @@ params:
 
     # Enable & configure "Notes" features
     notes:
-      enable: true
+      enable: false
 
     # Enable comment feature. There, should be only one of them.
     comment:
