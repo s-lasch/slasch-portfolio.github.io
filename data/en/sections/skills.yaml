@@ -15,32 +15,56 @@ buttons:
   filter: "all"
 - name: Basic
   filter: "basic"
-- name: Language
+- name: Languages
   filter: "language"
-- name: Container
-  filter: "container"
-- name: Others
-  filter: "others"
+- name: Technical
+  filter: "technical"
+- name: Operating Systems
+  filter: "os"
 
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Kubernetes
-  logo: /images/sections/skills/kubernetes.png
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
-  categories: ["container"]
-  url: "https://kubernetes.io/"
+- name: Python
+  logo: /images/sections/skills/python.svg
+  summary: "Advanced knowledge of data analysis, interactive data visualization, and machine learning libraries."
+  categories: ["language"]
+  url: "https://www.python.org/doc/"
 
-- name: Go Development
-  logo: /images/sections/skills/go.png
-  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
-  categories: ["basic", "language"]
-  url: "https://golang.org/"
+- name: SQL
+  logo: /images/sections/skills/sql.svg
+  summary: "Industry experience using Microsoft SQL Server to create, optimize, and document database queries."
+  categories: ["language"]
+  url: "https://www.r-project.org/"
 
-- name: Cloud Computing
-  logo: /images/sections/skills/cloud.png
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
-  categories: ["others"]
+- name: R
+  logo: /images/sections/skills/r-lang.svg
+  summary: "R is the most popular programming language for statistical computing and academic data visualization."
+  categories: ["language"]
+  url: "https://www.r-project.org/"
+
+- name: LaTeX
+  logo: /images/sections/skills/latex.svg
+  summary: "Mathematical typesetting system designed for the production of technical and scientific writing. "
+  categories: ["technical"]
+  url: "https://www.latex-project.org/"
+
+# - name: Kubernetes
+#   logo: /images/sections/skills/kubernetes.png
+#   summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
+#   categories: ["container"]
+#   url: "https://kubernetes.io/"
+
+# - name: Go Development
+#   logo: /images/sections/skills/go.png
+#   summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
+#   categories: ["basic", "language"]
+#   url: "https://golang.org/"
+
+# - name: Cloud Computing
+#   logo: /images/sections/skills/cloud.png
+#   summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+#   categories: ["others"]
 
 - name: Docker
   logo: /images/sections/skills/docker.svg
@@ -48,24 +72,24 @@ skills:
   categories: ["container"]
   url: "https://www.docker.com/"
 
-- name: Prometheus
-  logo: /images/sections/skills/prometheus.png
-  summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
-  categories: ["basic"]
-  url: "https://prometheus.io/"
+# - name: Prometheus
+#   logo: /images/sections/skills/prometheus.png
+#   summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
+#   categories: ["basic"]
+#   url: "https://prometheus.io/"
 
 - name: Linux
   logo: /images/sections/skills/linux.png
   summary: "Using as the main operating system. Capable of writing bash/shell scripts."
-  categories: ["others"]
+  categories: ["os"]
 
 - name: Git
   logo: /images/sections/skills/git.png
-  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
-  categories: ["basic"]
+  summary: "Experience with git-based development, preferrably in Github. Some experience working with GitLab."
+  categories: ["technical"]
   url: "https://git-scm.com/"
 
-- name: C++
-  logo: /images/sections/skills/c++.png
-  summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
-  categories: ["basic", "language"]
+# - name: C++
+#   logo: /images/sections/skills/c++.png
+#   summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
+#   categories: ["basic", "language"]

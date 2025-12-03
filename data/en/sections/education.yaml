@@ -16,7 +16,7 @@ degrees:
   institution:
     name: Georgia Institute of Technology
     url: "https://omscs.gatech.edu/"
-    logo: /images/sections/education/gatech.png
+    logo: /images/sections/education/gatech-vertical2.png
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/education/tech_college.png
   # takenCourses: #(optional)
