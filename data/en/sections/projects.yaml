@@ -14,8 +14,6 @@ buttons:
   filter: "all"
 - name: Professional
   filter: "professional"
-- name: Academic
-  filter: "academic"
 - name: Hobby
   filter: "hobby"
 
@@ -24,20 +22,20 @@ projects:
 - name: HVAC Website Development
   # logo: /images/sections/projects/dlhvac.png
   role: Developer and Administrator
-  timeline: "March 2018 - Present"
+  timeline: "June 2023 - Present"
   # repo: https://github.com/s-lasch/hvac-website # If your project is a public repo on GitHub, then provide this link. it will show star count.
   url: "https://davidlaschhvac.com/"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary:  For this project, I developed a website for David Lasch Heating & A/C, a small HV/AC business from Conneautville, PA. I worked with them to create a website that implements Google Analytics to track website impressions, page visits, and other data regularly. 
-  tags: ["Web Dev", "professional"]
+  tags: ["professional"]
 
 - name: My Website
   # logo: /images/sections/projects/dlhvac.png
-  role: Contributor
-  timeline: "March 2018 - Present"
-  # repo: https://github.com/s-lasch/hvac-website # If your project is a public repo on GitHub, then provide this link. it will show star count.
-  url: "https://davidlaschhvac.com/"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary:  For this project, I developed a website for David Lasch Heating & A/C, a small HV/AC business from Conneautville, PA. I worked with them to create a website that implements Google Analytics to track website impressions, page visits, and other data regularly. 
-  tags: ["Web Dev", "professional"]
+  role: Developer
+  timeline: "June 2023 - Present"
+  repo: https://github.com/s-lasch/slasch-portfolio.github.io # If your project is a public repo on GitHub, then provide this link. it will show star count.
+#  url: "https://steven-lasch.com/"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: I created and self-host my own website to showcase my career progress, research, and blog posts.
+  tags: ["hobby"]
 
 # - name: Tensorflow
 #   logo: /images/sections/projects/tensorflow.png
