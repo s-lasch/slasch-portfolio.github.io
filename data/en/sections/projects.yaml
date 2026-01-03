@@ -30,7 +30,7 @@ projects:
   summary:  For this project, I developed a website for David Lasch Heating & A/C, a small HV/AC business from Conneautville, PA. I worked with them to create a website that implements Google Analytics to track website impressions, page visits, and other data regularly. 
   tags: ["Web Dev", "professional"]
 
-- name: My ebsite
+- name: My Website
   # logo: /images/sections/projects/dlhvac.png
   role: Contributor
   timeline: "March 2018 - Present"
