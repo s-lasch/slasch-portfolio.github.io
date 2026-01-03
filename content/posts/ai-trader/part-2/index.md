@@ -6,6 +6,7 @@ menu:
   sidebar:
     name: AI Trader Pt. 2
     identifier: AIT2
+    parent: AITMS
     weight: 30
 author:
   name: Steven Lasch
