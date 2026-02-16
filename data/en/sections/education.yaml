@@ -37,7 +37,7 @@ degrees:
   #     outOf: 4
   customSections: #(optional)
     - name: Coursework
-      content: Coursework includes machine learning (ML) theory, applied ML in the financial sector and healthcare, knowledge-based AI, and cognitive science.
+      content: Well rounded coursework involving machine learning (ML) theory, applied ML in the financial sector and healthcare, knowledge-based AI, cognitive science, and analytics.
       
 - name: B.Sc. in Data Science
   icon: fa-graduation-cap
