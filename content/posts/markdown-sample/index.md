@@ -10,6 +10,7 @@ menu:
 author:
   name: Jessica Jonas
 math: true
+draft: true
 ---
 
 This is a sample post intended to test the followings:
@@ -69,7 +70,7 @@ Tables aren't part of the core Markdown spec, but Hugo supports supports them ou
 #### Inline Markdown within tables
 
 | Inline&nbsp;&nbsp;&nbsp; | Markdown&nbsp;&nbsp;&nbsp; | In&nbsp;&nbsp;&nbsp;                | Table  |
-| ------------------------ | -------------------------- | ----------------------------------- | ------ |
+|--------------------------|----------------------------|-------------------------------------|--------|
 | *italics*                | **bold**                   | ~~strikethrough~~&nbsp;&nbsp;&nbsp; | `code` |
 
 ## Code Blocks
