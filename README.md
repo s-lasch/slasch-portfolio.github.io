@@ -22,7 +22,7 @@ mise install
 mise run server
 ```
 
-## Updating theme
+## Updating Theme
 - To update theme to latest release, run:
 ```
 mise run update

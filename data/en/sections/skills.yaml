@@ -73,6 +73,18 @@ skills:
 
 - name: Financial analytics
   logo: /images/sections/skills/powerbi.svg
-  summary: "Creating PowerBI dashboards for leadership. Experience writing, managing, and optimizing SQL Server and MySQL queries."
+  summary: "Experience writing, managing, and optimizing SQL Server and MySQL queries to consolidate reporting, and effectively leverage credit union data for marketing and operations."
+  categories: ["domain"]
+  url: ""
+
+- name: PowerBI
+  logo: /images/sections/skills/powerbi.svg
+  summary: "Developed PowerBI dashboards for leadership and operations. Experience writing and optimizing SQL Server and MySQL queries, and complex DAX commands."
+  categories: ["domain"]
+  url: ""
+
+- name: Machine Learning Algorithms
+  logo: /images/sections/skills/powerbi.svg
+  summary: "Experience implementing machine learning algorithms. Demonstrated effective communication of use cases and limitations with leadership."
   categories: ["domain"]
   url: ""
