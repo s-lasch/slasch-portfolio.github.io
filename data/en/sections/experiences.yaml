@@ -27,10 +27,9 @@ experiences:
     # give some points about what was your responsibilities at the company.
     responsibilities:
     - Centralized management and executive-level MCIF reporting into an interactive dashboard environment.
-    - Managed our institution's cross-departmental report request form, which handles all data requests—ensuring reports were released on a need-to-know basis.
-    - Created monthly dashboards for marketing and branch operations.
-    - Use industry standard data visualization software to present data insights to stakeholders.
-    - Ensure smooth ETL processing for the credit union's data.
+    - Developed and automated cross-departmental report request form, which handles all data requests. Enabled easier ticket tracking and alleviates communication pain points.
+    - Developed an internal informational site about our analytics department using SharePoint Pages, further promoting a culture of data sharing.
+    - Created automated monthly dashboards for marketing and branch operations in PowerBI and proprietary software environments.
 
 - company:
     name: Northwest PA Beehive Network
