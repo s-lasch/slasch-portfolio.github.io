@@ -29,7 +29,7 @@ skills:
   logo: /images/sections/skills/python.svg
   summary: "My go-to language for many projects. Advanced knowledge of industry-level data analysis and visualization. Some experience creating machine learning pipelines."
   categories: ["language"]
-  url: "https://www.python.org/doc/"
+  url: "https://plotly.com/python/"
 
 - name: SQL
   logo: /images/sections/skills/sql.svg
@@ -69,7 +69,7 @@ skills:
   logo: /images/sections/skills/git.png
   summary: "My preferred version control system. Experience with git-based development in a team environment. Some experience incorporating Git LFS for large projects."
   categories: ["technical"]
-  url: "https://git-scm.com/"
+  url: "https://github.com/s-lasch"
 
 - name: Financial analytics
   logo: /images/sections/skills/powerbi.svg
@@ -85,6 +85,6 @@ skills:
 
 - name: Machine Learning Algorithms
   logo: /images/sections/skills/powerbi.svg
-  summary: "Experience implementing machine learning algorithms. Demonstrated effective communication of use cases and limitations with leadership."
+  summary: "Experience implementing computer-vision and machine translation algorithms. Demonstrated effective communication of use cases and limitations."
   categories: ["domain"]
-  url: ""
+  url: "https://github.com/s-lasch/Finger-Tracking-Application"
