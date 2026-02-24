@@ -27,25 +27,25 @@ buttons:
 skills:
 - name: Python
   logo: /images/sections/skills/python.svg
-  summary: "Advanced knowledge of data analysis, interactive data visualization, and machine learning libraries."
+  summary: "My go-to language for many projects. Advanced knowledge of industry-level data analysis and visualization. Some experience creating machine learning pipelines."
   categories: ["language"]
   url: "https://www.python.org/doc/"
 
 - name: SQL
   logo: /images/sections/skills/sql.svg
-  summary: "Industry experience using Microsoft SQL Server to create, optimize, and document database queries."
+  summary: "Industry experience using Microsoft SQL Server to create, optimize, and document complex database queries."
   categories: ["language"]
   url: "https://www.r-project.org/"
 
 - name: R
   logo: /images/sections/skills/r-lang.svg
-  summary: "R is the most popular programming language for statistical computing and academic data visualization."
+  summary: "My language of choice for statistical analysis. Most experience comes from various academic projects."
   categories: ["language"]
   url: "https://www.r-project.org/"
 
 - name: LaTeX
   logo: /images/sections/skills/latex.svg
-  summary: "Mathematical typesetting system designed for the production of technical and scientific writing. "
+  summary: "Comfortable with creating technical documentation for software projects. LaTeX is a mathematical typesetting system designed for producing technical and scientific writing."
   categories: ["technical"]
   url: "https://www.latex-project.org/"
 
@@ -67,7 +67,7 @@ skills:
 
 - name: Git
   logo: /images/sections/skills/git.png
-  summary: "Experience with git-based development, preferrably in Github. Some experience working with GitLab."
+  summary: "My preferred version control system. Experience with git-based development in a team environment. Some experience incorporating Git LFS for large projects."
   categories: ["technical"]
   url: "https://git-scm.com/"
 
